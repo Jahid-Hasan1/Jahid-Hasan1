@@ -1,7 +1,8 @@
+![Web Developer](https://imgkub.com/images/2022/02/07/github.png)
+
 ### Hi there 👋, Jahid Hasan
 #### Web Developer
 
-![Web Developer](https://imgkub.com/images/2022/02/07/github.png)
 
 I am a university student. I have been doing B.Sc. in engineering program under EEE department in DUET, Bangladesh. You can get in details about me on my CV. Now the question is how did I become an web developer? Actually, whatever I am interested in, I learn it in any way. No matter how difficult it is. Website-development is one of them.
 
