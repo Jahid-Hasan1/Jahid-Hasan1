@@ -1,7 +1,8 @@
 ### Hi there 👋, Jahid Hasan
 #### Web Developer
 
-![Web Developer](https://imgkub.com/image/Z6Xt)
+![Web Developer](https://imgkub.com/images/2022/02/07/github.png)
+
 I am a university student. I have been doing B.Sc. in engineering program under EEE department in DUET, Bangladesh. You can get in details about me on my CV. Now the question is how did I become an web developer? Actually, whatever I am interested in, I learn it in any way. No matter how difficult it is. Website-development is one of them.
 
 I have been practicing the website design and development for a long time. I tried to learn every important things related to web-development and I also learn the updated versions of them. I can design dynamic website. I know HTML, CSS, Word-press, Bootstrap, Java-script, JSON, Git and Github and I am continuously learning many things related with website development. I also know some programming languages- C, C++, Python(Basic) etc. I have worked for many local and global clients.
