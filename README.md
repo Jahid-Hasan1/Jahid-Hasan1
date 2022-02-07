@@ -8,7 +8,7 @@ I am a university student. I have been doing B.Sc. in engineering program under 
 
 I have been practicing the website design and development for a long time. I tried to learn every important things related to web-development and I also learn the updated versions of them. I can design dynamic website. I know HTML, CSS, Word-press, Bootstrap, Java-script, JSON, Git and Github and I am continuously learning many things related with website development. I also know some programming languages- C, C++, Python(Basic) etc. I have worked for many local and global clients.
 
-Skills: HTML / CSS/ Bootstrap/ Wordpress/ C/ CPP/ JSON/ Javascript etc.
+Skills: HTML / CSS/ Bootstrap/ Wordpress/ C/ CPP/ JSON/ Javascript/ GitHub etc.
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning Python 
