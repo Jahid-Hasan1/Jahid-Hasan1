@@ -1,4 +1,4 @@
-![Web Developer](https://imgkub.com/image/Z6Xt)
+https://imgkub.com/image/Z6Xt
 ### Hi there 👋, Jahid Hasan
 #### Web Developer
 
